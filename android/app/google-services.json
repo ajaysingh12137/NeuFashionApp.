@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "640140098519",
+    "project_id": "neupro-46e8e",
+    "storage_bucket": "neupro-46e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640140098519:android:91bce85303036efd2a6992",
+        "android_client_info": {
+          "package_name": "com.newpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640140098519-9vrdpiboo74sf6sjfv3t8jaqpuc2mg9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yESRy4XgUSTErZdwV_FQDBzAT4Mk3Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640140098519-9vrdpiboo74sf6sjfv3t8jaqpuc2mg9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640140098519-027uah996g5bc4i0m8hn0fdqmtmuhidu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newpro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
